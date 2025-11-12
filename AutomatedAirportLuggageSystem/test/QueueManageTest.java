@@ -26,10 +26,8 @@ public class QueueManageTest {
         assertDoesNotThrow(() -> queue.requestCharge(agv));
     }
 
-    
     @AfterEach
     void tearDown() {
         queue.shutdown();
     }
 }
-
