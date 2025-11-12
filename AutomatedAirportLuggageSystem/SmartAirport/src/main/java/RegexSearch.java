@@ -4,6 +4,7 @@ import java.util.regex.*;
 
 
 public class RegexSearch {
+
     public void searchLogs(String pattern) {
         File dir = new File("logs");
         if (!dir.exists()) {
@@ -23,3 +24,4 @@ public class RegexSearch {
         }
     }
     }
+>>>>>>> refs/remotes/origin/master
