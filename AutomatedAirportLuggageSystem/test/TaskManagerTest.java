@@ -25,14 +25,12 @@ public class TaskManagerTest {
         tm = new TaskManager(log, storage, queue);
     }
 
-    
     @Test
     void testCreateTask() {
         Baggage bag = new Baggage(101, "Gate A");
         assertDoesNotThrow(() -> tm.createTask("TestTask", bag));
     }
 
-    
     @Test
     void testAssignAGV() {
         Baggage bag = new Baggage(102, "Gate B");
