@@ -18,4 +18,3 @@ public class Baggage {
     public void updateStatus(String newStatus) { this.status = newStatus; }
     public String getStatus() { return status; }
 }
-
