@@ -15,7 +15,6 @@ public class ChargingStation {
         this.logService = logService;
     }
 
-
     public synchronized void chargeAGV(AGV agv) {
         if (!isAvailable) {
             // 🚫 Station busy — show message box
