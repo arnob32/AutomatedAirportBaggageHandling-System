@@ -2,7 +2,7 @@
 # Objectives
 # project Overview
 # Team Membar:
-  1. Ibrahim Kalil - MDT -7213232
+  1. Ibrahim Kalil - MDT -7213232 (LogServiceTest.java, StorageArea.java, ResourceManager.java, RegexSearch.java, Baggage.java, TaskException.java, ItemNotFoundException.java, CustomExceptions.java)
   2. Nawshad Fahim - MDT - 7216629 (StationBusyException.java, TaskManager.java, QueueManager.java, Chargingstation.java )
   3. Raju Naidu - MDT -7213668 (AgvUnavailableException.java, )
 # Screenshots
