@@ -1,7 +1,7 @@
-# Automated-Airport-Baggage-Handling-System.
+# Automated Airport Baggage Handling System.
 This project simulates an automated airport luggage system using AGVs, managing baggage transport, task assignment, queuing, and smart charging to improve efficiency, coordination, and overall airport baggage-handling performance.
 
-# project Overview
+# Project Overview
 This project models an automated airport luggage management system using autonomous guided vehicles (AGVs). It simulates baggage transport, task scheduling, queue management, and intelligent charging across a busy airport environment. The system coordinates multiple AGVs to enhance efficiency, reduce congestion, and improve overall baggage-handling reliability. Through modular Java components, it demonstrates how automation can optimize modern airport operations.
 
 # Team Membar and Roles Distribution:
