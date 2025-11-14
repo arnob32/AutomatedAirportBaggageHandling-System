@@ -33,6 +33,18 @@ This project models an automated airport luggage management system using autonom
   4. Reduced Congestion: Queue and traffic management prevent bottlenecks in busy airport areas.
   5. Scalable & Flexible: The system can easily adapt to different airport sizes and workload demands.
 
+# Benefits / Impact
+  1. Highlight improvements over manual systems:
+  2. Faster operations
+  3. Safer and more consistent
+  4. Scalable for future airport automation
+
+# Limitations 
+Shows awareness of scope:
+  1. Simulation-based
+  2. No real hardware integration
+  3. Simplified movement model
+
 
 
 
