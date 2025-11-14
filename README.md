@@ -18,6 +18,16 @@ This project models an automated airport luggage management system using autonom
 [CapstonePresentation.pptx](https://github.com/user-attachments/files/23553560/CapstonePresentation.pptx)
 
 
+# Why This System Is Effective
+  1. Improved Efficiency: AGVs streamline baggage movement, reducing delays and speeding up processing.
+  2. Higher Reliability: Automated coordination minimizes human error and ensures consistent performance.
+  3. Smart Resource Use: Intelligent task assignment and charging keep AGVs available and productive.
+  4. Reduced Congestion: Queue and traffic management prevent bottlenecks in busy airport areas.
+  5. Scalable & Flexible: The system can easily adapt to different airport sizes and workload demands.
+
+
+
+
  
 
 
